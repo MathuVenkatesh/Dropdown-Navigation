@@ -379,6 +379,9 @@ span{
 .container{
     padding: 0;
 }
+.first-drop>li, .second-drop>li{
+    padding: 8px 8px ;
+}
   
 }
 
