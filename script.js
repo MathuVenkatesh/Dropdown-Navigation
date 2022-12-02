@@ -1,4 +1,4 @@
-alert('hi');
+
 let navIcon = document.querySelector('.navicon-div');
 let menu = document.querySelector('.menu');
 let closeBtn = document.querySelector('.fa-xmark');
